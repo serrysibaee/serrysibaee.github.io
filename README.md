@@ -1,2 +1,2 @@
-# serrysibaee.githup.io
+# serrysibaee.github.io
 first site for me 
